@@ -1,0 +1,20 @@
+Language: Cpp
+
+BasedOnStyle: Microsoft   
+UseTab: Never
+AlignAfterOpenBracket: Align
+AlignArrayOfStructures: Left
+AlignConsecutiveAssignments: Consecutive
+AlignConsecutiveDeclarations: Consecutive  
+AlignEscapedNewlines: Right
+AlignOperands: AlignAfterOperator
+BreakConstructorInitializers: BeforeComma 
+AlignTrailingComments: true 
+AllowAllArgumentsOnNextLine: false 
+AllowAllParametersOfDeclarationOnNextLine: false
+AlwaysBreakBeforeMultilineStrings: false 
+AlwaysBreakTemplateDeclarations: Yes
+BinPackArguments: false
+BreakBeforeTernaryOperators: true  
+BreakStringLiterals: true 
+EmptyLineBeforeAccessModifier: Always 
